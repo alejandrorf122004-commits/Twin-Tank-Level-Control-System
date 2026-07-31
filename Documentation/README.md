@@ -1,3 +1,3 @@
 # Documentation
 
-Reports, mathematical derivations and project documentation.
+Final report, derivations and supporting project notes for the twin-tank control system.
